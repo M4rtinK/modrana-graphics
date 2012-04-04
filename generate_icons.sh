@@ -8,6 +8,8 @@ if [ $1 ];then extension=$1;fi
 
 echo ${icon_ids}
 
+rm -rf icons/*
+
 for i in $icon_ids
 do
  b=`echo $i | sed s/icon_//`
