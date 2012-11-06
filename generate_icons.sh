@@ -1,5 +1,5 @@
 #!/bin/bash
-icon_ids=`cat icons.svg | grep -o -E 'icon_[0-9A-Za-z_-]*'`
+icon_ids=`cat icons.svg | grep -o -E 'icon_[0-9A-Za-z_]*'`
 
 height=88
 extension="png"
