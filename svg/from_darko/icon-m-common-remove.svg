@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="icon-m-common-remove-layer"
+   x="0px"
+   y="0px"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   style="enable-background:new 0 0 48 48;"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="icon-m-common-remove.svg"><metadata
+   id="metadata11377"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs11375" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview11373"
+   showgrid="false"
+   inkscape:zoom="9.8333333"
+   inkscape:cx="36.010345"
+   inkscape:cy="24.426407"
+   inkscape:window-x="0"
+   inkscape:window-y="29"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="icon-m-common-remove_2_" />
+<g
+   id="icon-m-common-remove_2_">
+	<rect
+   style="fill:none;"
+   width="48"
+   height="48"
+   id="rect11367" />
+	<path
+   style="fill:#333333;"
+   d="M38.156,27.75H9.843V19.5h28.313V27.75z"
+   id="path11369" />
+	<path
+   style="fill:#333333;"
+   d="M43.617,4.384v39.234H4.383V4.384H43.617 M47.25,0.751H0.75v46.5h46.5V0.751L47.25,0.751z"
+   id="path11371" />
+</g>
+</svg>
