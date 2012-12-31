@@ -22,7 +22,7 @@
    inkscape:export-ydpi="92">
   <sodipodi:namedview
      inkscape:window-height="1017"
-     inkscape:window-width="1920"
+     inkscape:window-width="1914"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -34,11 +34,11 @@
      id="base"
      showgrid="true"
      inkscape:grid-points="false"
-     inkscape:zoom="0.9880554"
-     inkscape:cx="61.381333"
-     inkscape:cy="-601.04067"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="2.7946427"
+     inkscape:cx="1229.2207"
+     inkscape:cy="127.33966"
+     inkscape:window-x="9"
+     inkscape:window-y="38"
      inkscape:current-layer="svg2"
      inkscape:object-paths="true"
      inkscape:grid-bbox="false"
@@ -24488,7 +24488,6 @@
      width="111.12024"
      height="111.12024"
      ry="22"
-     inkscape:export-filename="/home/melf-san/data/coding/gps/rana3/icons/bitmap/GPS.png"
      inkscape:export-ydpi="92.212929"
      rx="22"
      style="fill:#92aaf3;fill-opacity:1;stroke:#3d60fa;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
@@ -24725,7 +24724,6 @@
      y="1871"
      rx="22"
      ry="0"
-     inkscape:export-filename="/home/melf-san/data/coding/gps/rana3/icons/bitmap/tile_waiting_for_download_slot.png"
      inkscape:export-xdpi="87.896996"
      inkscape:export-ydpi="87.896996" />
   <text
@@ -27876,56 +27874,7 @@
        transform="translate(-2.9090515,-3.478068)" />
   </g>
   <g
-     id="adasdasd_icon_info"
-     transform="translate(1360.3988,496.14629)"
-     inkscape:label="#g4161">
-    <g
-       id="g8409"
-       transform="translate(-7.7688194,-3.0579017)">
-      <g
-         id="g9087">
-        <g
-           id="g8380" />
-        <g
-           id="icon_info"
-           inkscape:label="#g9095">
-          <circle
-             id="circle4165"
-             style="fill:#6081ed;fill-opacity:1;stroke:#afe4ff;stroke-width:2;stroke-opacity:1"
-             r="25.799999"
-             cy="31"
-             cx="31"
-             sodipodi:cx="31"
-             sodipodi:cy="31"
-             sodipodi:rx="25.799999"
-             sodipodi:ry="25.799999"
-             d="M 56.799999,31 C 56.799999,45.248946 45.248946,56.799999 31,56.799999 16.751054,56.799999 5.2000008,45.248946 5.2000008,31 5.2000008,16.751054 16.751054,5.2000008 31,5.2000008 45.248946,5.2000008 56.799999,16.751054 56.799999,31 z"
-             transform="translate(1.94e-5,1.7e-6)" />
-          <g
-             transform="translate(1.3700194,-0.08838835)"
-             style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
-             id="asdasdasdaaas"
-             inkscape:label="#info">
-            <polygon
-               points="35,25 35,44 39,44 39,48 23,48 23,44 27,44 27,28 23,28 23,25 23,25 "
-               id="polygon4141"
-               style="stroke:#000000;stroke-opacity:1" />
-            <circle
-               d="m 35,17 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z"
-               sodipodi:ry="4"
-               sodipodi:rx="4"
-               sodipodi:cy="17"
-               sodipodi:cx="31"
-               cx="31"
-               cy="17"
-               r="4"
-               id="circle4143"
-               style="stroke:#000000;stroke-opacity:1" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+     id="g8613" />
   <g
      id="icon_sound"
      transform="matrix(0.21885723,0,0,0.21885723,1737.267,609.43132)"
@@ -30933,4 +30882,104 @@
      inkscape:export-ydpi="92.212929"
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:label="#path10034-1" />
+  <g
+     id="icon_info"
+     transform="translate(1170.3988,436.14629)"
+     inkscape:label="#g4161">
+    <g
+       id="g8409-2"
+       transform="translate(-7.7688194,-3.0579017)">
+      <g
+         id="g9087-0">
+        <g
+           id="g8380-0" />
+        <g
+           id="icon_info-9"
+           inkscape:label="#g9095">
+          <g
+             id="g8599">
+            <circle
+               transform="translate(1.3700194,0.9116117)"
+               d="M 56.799999,31 C 56.799999,45.248946 45.248946,56.799999 31,56.799999 16.751054,56.799999 5.2000008,45.248946 5.2000008,31 5.2000008,16.751054 16.751054,5.2000008 31,5.2000008 45.248946,5.2000008 56.799999,16.751054 56.799999,31 z"
+               sodipodi:ry="25.799999"
+               sodipodi:rx="25.799999"
+               sodipodi:cy="31"
+               sodipodi:cx="31"
+               cx="31"
+               cy="31"
+               r="25.799999"
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               id="circle4165-0" />
+            <g
+               inkscape:label="#info"
+               id="asdasdasdaaas-1"
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               transform="translate(1.3700194,-0.0883883)">
+              <polygon
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 id="polygon4141-5"
+                 points="23,25 35,25 35,44 39,44 39,48 23,48 23,44 27,44 27,28 23,28 23,25 " />
+              <circle
+                 style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                 id="circle4143-5"
+                 r="4"
+                 cy="17"
+                 cx="31"
+                 sodipodi:cx="31"
+                 sodipodi:cy="17"
+                 sodipodi:rx="4"
+                 sodipodi:ry="4"
+                 d="m 35,17 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g8409"
+     transform="translate(1327.63,493.08839)">
+    <g
+       id="g9087">
+      <g
+         id="g8380" />
+      <g
+         id="icon_info-7"
+         inkscape:label="#g9095">
+        <circle
+           id="circle4165"
+           style="fill:#6081ed;fill-opacity:1;stroke:#afe4ff;stroke-width:2;stroke-opacity:1"
+           r="25.799999"
+           cy="31"
+           cx="31"
+           sodipodi:cx="31"
+           sodipodi:cy="31"
+           sodipodi:rx="25.799999"
+           sodipodi:ry="25.799999"
+           d="M 56.799999,31 C 56.799999,45.248946 45.248946,56.799999 31,56.799999 16.751054,56.799999 5.2000008,45.248946 5.2000008,31 5.2000008,16.751054 16.751054,5.2000008 31,5.2000008 45.248946,5.2000008 56.799999,16.751054 56.799999,31 z"
+           transform="translate(1.94e-5,1.7e-6)" />
+        <g
+           transform="translate(1.3700194,-0.08838835)"
+           style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
+           id="asdasdasdaaas"
+           inkscape:label="#info">
+          <polygon
+             points="23,25 23,25 35,25 35,44 39,44 39,48 23,48 23,44 27,44 27,28 23,28 "
+             id="polygon4141"
+             style="stroke:#000000;stroke-opacity:1" />
+          <circle
+             d="m 35,17 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z"
+             sodipodi:ry="4"
+             sodipodi:rx="4"
+             sodipodi:cy="17"
+             sodipodi:cx="31"
+             cx="31"
+             cy="17"
+             r="4"
+             id="circle4143"
+             style="stroke:#000000;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
