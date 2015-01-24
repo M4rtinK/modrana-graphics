@@ -1,4 +1,9 @@
 #!/bin/bash
+# yes, Inkscape is this crazy - if DISPLAY is not set, it waits
+# for MIT-MAGIC-COOKIE until timeout (30 seconds ?) before
+# continuing... :D
+export DISPLAY=:0
+
 ICON_IDS=`cat ../icons.svg | grep -o -E 'mono_icon_[0-9A-Za-z_]*'`
 
 HEIGHT=88
@@ -14,9 +19,9 @@ rm -rf icons/*
 rm -rf icons_highress/*
 
 echo "== generating mono icons =="
-parallel --jobs 10 bash generate_icon.sh $HEIGHT $EXTENSION "icons" ::: $ICON_IDS 
+parallel bash generate_icon.sh $HEIGHT $EXTENSION "icons" ::: $ICON_IDS 
 echo "== generating highres mono icons =="
-parallel --jobs 10 bash generate_icon.sh $HIGHRESS_HEIGHT $EXTENSION icons_highress ::: $ICON_IDS 
+parallel bash generate_icon.sh $HIGHRESS_HEIGHT $EXTENSION icons_highress ::: $ICON_IDS 
 
 rm -f "--force"
 
