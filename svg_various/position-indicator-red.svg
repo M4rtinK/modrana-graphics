@@ -15,7 +15,7 @@
    id="svg14380"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="position-indicator.svg">
+   sodipodi:docname="position-indicator-red.svg">
   <defs
      id="defs14382" />
   <sodipodi:namedview
@@ -68,10 +68,10 @@
          inkscape:connector-curvature="0"
          id="path2995-7-6-5-9"
          d="m 128.02777,741.88604 c 0.3832,19.39238 16.2034,35 35.6875,35 19.4842,0 35.3358,-15.60742 35.7187,-35 l 0.016,-0.69196 -0.047,-1.87054 0,-0.1875 c -0.2932,-5.5936 -1.5245,-9.57947 -3.4687,-15.71875 l -32.1875,-110.75 -31.8393,111.66964 c -1.6782,5.54152 -3.5527,9.51425 -3.8482,14.79911 -0.067,1.86774 -0.058,1.21739 -0.031,2.75 z"
-         style="fill:#4039b4;fill-opacity:0.74117647;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85620913" />
+         style="fill:#b43939;fill-opacity:0.74117649;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.85620913" />
       <ellipse
          id="path3791-7-6-1"
-         style="fill:#4039b4;fill-opacity:0.74117647;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.85620913"
+         style="fill:#b43939;fill-opacity:1;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.85620913"
          cx="163.729"
          cy="739.74799"
          rx="4.2931485"
