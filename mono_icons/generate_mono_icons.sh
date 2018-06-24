@@ -4,6 +4,8 @@
 # continuing... :D
 export DISPLAY=:0
 
+echo "looking up icon ids"
+
 ICON_IDS=`cat ../icons.svg | grep -o -E 'mono_icon_[0-9A-Za-z_]*'`
 
 HEIGHT=88
